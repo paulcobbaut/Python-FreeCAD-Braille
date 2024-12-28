@@ -30,3 +30,6 @@ A plaque that is used in an elevator.
 
 ![Example of printed braille on a plaque](images/liftbordje.jpg)
 
+## printables.com link
+
+https://www.printables.com/model/1124407-braille-in-freecad
